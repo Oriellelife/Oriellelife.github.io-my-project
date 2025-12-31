@@ -88,7 +88,7 @@ button:hover{
 
 .two{
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     justify-content: space-between;
     text-align: center;
     align-items:normal;
@@ -201,6 +201,7 @@ footer ul{
     font-weight: bolder;
     text-align: center;
     padding: 30px;
+    justify-content: center;
 }
 
 .email-input{
